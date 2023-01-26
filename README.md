@@ -103,9 +103,9 @@ Deixe mais de uma dúzia de linhas em branco para evitar que os alunos vejam a r
 * [Link do URL de análise](https://github.com/BREN0sx/web-basics/blob/main/src/scene/url-parse.js)
 
 * [Processamento de número de milhares](https://github.com/BREN0sx/web-basics/blob/main/src/scene/toThousands.js)
-* [JS converte o timestamp para apenas, alguns minutos atrás, algumas horas atrás, alguns dias atrás, algumas semanas atrás, alguns meses atrás, etc.](https://github.com/BREN0sx/web- basics/blob/main/src/scene/time.js)
+* [JS converte o timestamp para apenas, alguns minutos atrás, algumas horas atrás, alguns dias atrás, algumas semanas atrás, alguns meses atrás, etc.](https://github.com/BREN0sx/web-basics/blob/main/src/scene/time.js)
 * [Como atravessar uma árvore dom](https://github.com/BREN0sx/web-basics/blob/main/src/scene/dom.js)
-* [Como resolver o problema de cálculos de ponto flutuante imprecisos e as razões para números de ponto flutuante imprecisos por meio de código](https://github.com/BREN0sx/web-basics/blob/main/src/scene/numAdd. js)
+* [Como resolver o problema de cálculos de ponto flutuante imprecisos e as razões para números de ponto flutuante imprecisos por meio de código](https://github.com/BREN0sx/web-basics/blob/main/src/scene/numAdd.js)
 * [Obtenha todos os nomes de tags na página](https://github.com/BREN0sx/web-basics/blob/main/src/scene/getAllTag.js)
 * [Encontre todas as permutações e combinações de uma matriz bidimensional [[A, B], [a, b], [1, 2]](https://github.com/BREN0sx/web/basics/blob/main/src/scene/findAll.js)
 * [2021-11-9: saída do loop de evento](https://github.com/BREN0sx/web-basics/blob/main/src/scene/event-loop2.js)
@@ -129,6 +129,6 @@ Deixe mais de uma dúzia de linhas em branco para evitar que os alunos vejam a r
 
 Jogando tijolos para atrair jade, as palavras da família, na esperança de desencadear algum pensamento.
 
-* [Princípio da lista virtual](https://github.com/BREN0sx/web-basics/blob/main/src/sceneDesign/big data list.md)
-* [Interface front-end anti-brush](https://github.com/BREN0sx/web-basics/blob/main/src/sceneDesign/Interface front-end anti-brush.md)
-* [Design de componente de plataforma giratória](https://github.com/BREN0sx/web-basics/blob/main/src/sceneDesign/Turntable Component Design.md)
+* [Princípio da lista virtual](https://github.com/BREN0sx/web-basics/blob/main/src/sceneDesign/lista de dados grandes.md)
+* [Interface front-end anti-brush](https://github.com/BREN0sx/web-basics/blob/main/src/sceneDesign/Interface frontal anti-brush.md)
+* [Design de componente de plataforma giratória](https://github.com/BREN0sx/web-basics/blob/main/src/sceneDesign/Projeto de montagem da plataforma giratória.md)

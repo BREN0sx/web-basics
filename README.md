@@ -1,6 +1,6 @@
-# Os recursos exigidos pelo front-end da grande fábrica (atualizados continuamente)
+# Os recursos exigidos pelo front-end pelas grandes empresas (atualizados continuamente)
 
-Este armazém é para coletar e organizar as habilidades de front-end exigidas pelas grandes fábricas, que são divididas em habilidades básicas de JS, grandes perguntas sobre a cena da fábrica e perguntas reais sobre entrevistas de grandes fábricas.
+Este armazém é para coletar e organizar as habilidades de front-end exigidas pelas grandes empresas, que são divididas em habilidades básicas de JS, grandes perguntas sobre a cena da empresa e perguntas reais sobre entrevistas de grandes empresas.
 
 Espero ajudar todos a melhorar suas habilidades, ser capaz de fazer um trabalho com facilidade durante a entrevista e obter facilmente uma oferta de alto pagamento.
 

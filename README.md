@@ -117,7 +117,7 @@ Deixe mais de uma dúzia de linhas em branco para evitar que os alunos vejam a r
 * [Chinês para saída digital](https://github.com/BREN0sx/web-basics/blob/main/src/scene/numberToCn/cnToNumber.js)
 * [implemente a função de composição, semelhante ao componente koa onion](https://github.com/BREN0sx/web-basics/blob/main/src/scene/compose/compose.js)
 * [Dom virtual para dom real](https://github.com/BREN0sx/web-basics/blob/main/src/scene/vDomToDom/vDomToDom.js)
-* [Promise.retry resolve o resultado após sucesso, tenta novamente após falha e rejeita apenas após um certo número de tentativas](https://github.com/BREN0sx/web-basics/blob/main/src/scene/promise/ tente novamente .js)
+* [Promise.retry resolve o resultado após sucesso, tenta novamente após falha e rejeita apenas após um certo número de tentativas](https://github.com/BREN0sx/web-basics/blob/main/src/scene/promise/retry.js)
 
 ### Questões de algoritmo
 

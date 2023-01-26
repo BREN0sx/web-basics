@@ -1,0 +1,37 @@
+{
+  "name": "web-basics",
+  "version": "1.0.0",
+  "description": "O front-end de Dachang precisa dominar os recursos básicos de JS. As perguntas da cena de Dachang e as perguntas reais da entrevista de Dachang são bem-vindas para enviar problemas e PRs para enriquecer as perguntas da cena",
+  "scripts": {
+    "lint": "eslint --ext .js src --fix",
+    "prepare": "husky install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BREN0sx/web-basics.git"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -e $GIT_PARAMS"
+    }
+  },
+  "publisher": "BREN0sx",
+  "author": {
+    "name": "BREN0sx"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BREN0sx/web-basics/issues"
+  },
+  "homepage": "https://github.com/BREN0sx/web-basics#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^14.1.0",
+    "@commitlint/config-conventional": "^14.1.0",
+    "eslint": "^8.1.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.25.2",
+    "husky": "^7.0.4",
+    "lint-staged": "^11.2.6"
+  }
+}

@@ -27,7 +27,7 @@ Bem-vindo a contribuir com as últimas perguntas da entrevista, perguntas sobre 
 * [princípio de implementação de instânciaOf](https://github.com/BREN0sx/web-basics/blob/main/src/js/intanceof/intanceof.js)
 * [novo princípio de implementação](https://github.com/BREN0sx/web-basics/blob/main/src/js/new/new.js)
 * [Implementação de simulação de Object.assgin](https://github.com/BREN0sx/web-basics/blob/main/src/js/assign/Object-assign.js)
-* [Método de matriz para cada, mapa de filtro reduz alguns princípios de implementação] (https://github.com/BREN0sx/web-basics/blob/main/src/js/arrayFunction/arrary-function.js)
+* [Método de matriz para cada, mapa de filtro reduz alguns princípios de implementação](https://github.com/BREN0sx/web-basics/blob/main/src/js/arrayFunction/arrary-function.js)
 * [Método de emenda de array](https://github.com/BREN0sx/web-basics/blob/main/src/js/arrayFunction/array-splice.js)
 * [reduzir a função de combinação, reduzir a expansão da matriz multidimensional](https://github.com/BREN0sx/web-basics/blob/main/src/js/arrayFunction/array-reduce.js)
 * Ordenar
@@ -107,7 +107,7 @@ Deixe mais de uma dúzia de linhas em branco para evitar que os alunos vejam a r
 * [Como atravessar uma árvore dom](https://github.com/BREN0sx/web-basics/blob/main/src/scene/dom.js)
 * [Como resolver o problema de cálculos de ponto flutuante imprecisos e as razões para números de ponto flutuante imprecisos por meio de código](https://github.com/BREN0sx/web-basics/blob/main/src/scene/numAdd. js)
 * [Obtenha todos os nomes de tags na página](https://github.com/BREN0sx/web-basics/blob/main/src/scene/getAllTag.js)
-* [Encontre todas as permutações e combinações de uma matriz bidimensional [[A, B], [a, b], [1, 2]]](https://github.com/BREN0sx/web-basics/blob/ main/src/scene/findAll.js)
+* [Encontre todas as permutações e combinações de uma matriz bidimensional [[A, B], [a, b], [1, 2]](https://github.com/BREN0sx/web/basics/blob/main/src/scene/findAll.js)
 * [2021-11-9: saída do loop de evento](https://github.com/BREN0sx/web-basics/blob/main/src/scene/event-loop2.js)
 * [2021-11-9: saída da cadeia de protótipo Pinduoduo](https://github.com/BREN0sx/web-basics/blob/main/src/scene/proto-console.js)
 * [2021-11-9: Determine se a string composta por símbolos está correta](https://github.com/BREN0sx/web-basics/blob/main/src/scene/symbol-close.js)

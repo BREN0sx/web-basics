@@ -11,7 +11,7 @@ module.exports = {
         'fix',  //  corrigir bugs
         'build',  //  Mudanças para construir ferramentas ou dependências externas, como webpack, npm
         'chore',  //  Outras modificações que não modificam src ou test, como mudanças no processo de compilação ou ferramentas auxiliares
-        'ci', // Mudanças relacionadas ao CI (Serviço de Integração Contínua)
+        'ci',  // Mudanças relacionadas ao CI (Serviço de Integração Contínua)
         'docs', // Mudou apenas o conteúdo relacionado ao documento
         'style', // Alterações que não afetam o significado do código, como remover espaços, alterar indentação, adicionar e remover ponto e vírgula
         'perf', // Mudanças para melhorar o desempenho

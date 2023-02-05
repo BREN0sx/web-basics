@@ -8,7 +8,7 @@ module.exports = {
       'always',
       [
         'feat',  //  adicionar novos recursos
-        'fix', // corrigir bugs
+        'fix',  // corrigir bugs
         'build', // Mudanças para construir ferramentas ou dependências externas, como webpack, npm
         'chore', // Outras modificações que não modificam src ou test, como mudanças no processo de compilação ou ferramentas auxiliares
         'ci', // Mudanças relacionadas ao CI (Serviço de Integração Contínua)

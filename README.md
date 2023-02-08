@@ -17,8 +17,7 @@ Bem-vindo a contribuir com as últimas perguntas da entrevista, perguntas sobre 
 
 ### Princípio básico de implementação da API do núcleo JS
 
-
-* [Desduplicação de tipos básicos de matriz](https://github.com/BREN0sx/web-basics/blob/main/src/js/uniqueArray/uniqueArray1.js)
+* [Desduplicação de tipos básicos de matriz](https://github.com/BREN0sx/web-basics/blob/main/src/js/uniqueArray/uniqueArray1.js
 * [Desduplicação do mesmo valor de chave de objeto do array](https://github.com/BREN0sx/web-basics/blob/main/src/js/uniqueArray/uniqueArray2.js)
 * [Aprimoramento de limitação antivibração e antivibração e limitação regulares](https://github.com/BREN0sx/web-basics/blob/main/src/js/debounceThrottle/debounce-throttle.js)
 * [A última chamada da função de aceleração deve ser executada](https://github.com/BREN0sx/web-basics/blob/main/src/js/debounceThrottle/throttleLastRun.js)

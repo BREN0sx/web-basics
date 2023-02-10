@@ -86,7 +86,6 @@ Deixe mais de uma dúzia de linhas em branco para evitar que os alunos vejam a r
 // Comente a resposta para não afetar o funcionamento da resposta escrita pelos próprios alunos
 // Responder
 ```
-
 ### Perguntas reais sobre o código da cena de combate de Dachang
 
 * [implemente um mecanismo de template simples (com e sem replace)](https://github.com/BREN0sx/web-basics/blob/main/src/scene/template.js)

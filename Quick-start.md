@@ -11,7 +11,6 @@
 │   ├── interview // Perguntas de combinação de entrevista Dachang
 │   └── example // Exemplo é usado para o navegador abrir html para depuração
 ```
-
 ### Encontre o arquivo de código correspondente e comece a aprender
 
 ## Executar código

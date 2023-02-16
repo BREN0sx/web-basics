@@ -33,5 +33,4 @@ Instale o plug-in [Code Runner](https://marketplace.visualstudio.com/items?itemN
 
 ### Depuração do navegador: use o arquivo html para referenciar o código js
 
-
 Forneça um arquivo html: `/src/example/index.html`, consulte o arquivo js normalmente, digite `debugger` no código e depure o código no navegador.

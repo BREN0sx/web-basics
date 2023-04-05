@@ -29,17 +29,17 @@ Bem-vindo a contribuir com as últimas perguntas da entrevista, perguntas sobre 
 * [Método de matriz para cada, mapa de filtro reduz alguns princípios de implementação](https://github.com/BREN0sx/web-basics/blob/main/src/js/arrayFunction/arrary-function.js)
 * [Método de emenda de array](https://github.com/BREN0sx/web-basics/blob/main/src/js/arrayFunction/array-splice.js)
 * [reduzir a função de combinação, reduzir a expansão da matriz multidimensional](https://github.com/BREN0sx/web-basics/blob/main/src/js/arrayFunction/array-reduce.js)
-* Ordenar
+* [Ordenar](https://github.com/BREN0sx/web-basics/tree/main/src/js/sort)
     * [Bubble sort](https://github.com/BREN0sx/web-basics/blob/main/src/js/sort/arrary-sort-modifiedBubbleSort.js)
     * [Classificação por inserção](https://github.com/BREN0sx/web-basics/blob/main/src/js/sort/arrary-sort-insertionSort.js)
     * [Classificação de seleção](https://github.com/BREN0sx/web-basics/blob/main/src/js/sort/arrary-sort-modifiedBubbleSort.js)
 * [Implemente a função de ligação](https://github.com/BREN0sx/web-basics/blob/main/src/js/callApplyBind/bind.js)
 * [Implementar métodos de chamada e aplicação](https://github.com/BREN0sx/web-basics/blob/main/src/js/callApplyBind/call-apply.js)
 * [Função Curry](https://github.com/BREN0sx/web-basics/blob/main/src/js/curry/curry.js)
-*ES6
-    * [Implementação completa da promessa](https://github.com/BREN0sx/web-basics/blob/main/src/js/promiseAwaitGenerator/es6/promise.js)
-    * [princípio de implementação do gerador](https://github.com/BREN0sx/web-basics/blob/main/src/js/promiseAwaitGenerator/es6/generator.js)
-    * [aguarde o princípio de implementação](https://github.com/BREN0sx/web-basics/blob/main/src/js/es6/promiseAwaitGenerator/await.js)
+*[ES6](https://github.com/BREN0sx/web-basics/tree/main/src/js/promiseAwaitGenerator)
+    * [Implementação completa da promessa](https://github.com/BREN0sx/web-basics/blob/main/src/js/promiseAwaitGenerator/promise.js)
+    * [princípio de implementação do gerador](https://github.com/BREN0sx/web-basics/blob/main/src/js/promiseAwaitGenerator/generator.js)
+    * [aguarde o princípio de implementação](https://github.com/BREN0sx/web-basics/blob/main/src/js/promiseAwaitGenerator/await.js)
 * [LRU Algorithm](https://github.com/BREN0sx/web-basics/blob/main/src/js/LRU/LRU.js)
 * [polificar da promessa.tudo resolvido](https://github.com/BREN0sx/web-basics/blob/main/src/js/promiseAwaitGenerator/promise-allsettled.js)
 

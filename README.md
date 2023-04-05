@@ -36,7 +36,7 @@ Bem-vindo a contribuir com as últimas perguntas da entrevista, perguntas sobre 
 * [Implemente a função de ligação](https://github.com/BREN0sx/web-basics/blob/main/src/js/callApplyBind/bind.js)
 * [Implementar métodos de chamada e aplicação](https://github.com/BREN0sx/web-basics/blob/main/src/js/callApplyBind/call-apply.js)
 * [Função Curry](https://github.com/BREN0sx/web-basics/blob/main/src/js/curry/curry.js)
-*[ES6](https://github.com/BREN0sx/web-basics/tree/main/src/js/promiseAwaitGenerator)
+* [ES6](https://github.com/BREN0sx/web-basics/tree/main/src/js/promiseAwaitGenerator)
     * [Implementação completa da promessa](https://github.com/BREN0sx/web-basics/blob/main/src/js/promiseAwaitGenerator/promise.js)
     * [princípio de implementação do gerador](https://github.com/BREN0sx/web-basics/blob/main/src/js/promiseAwaitGenerator/generator.js)
     * [aguarde o princípio de implementação](https://github.com/BREN0sx/web-basics/blob/main/src/js/promiseAwaitGenerator/await.js)
